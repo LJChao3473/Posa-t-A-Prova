@@ -1,0 +1,21 @@
+aplicacion web que permite hacer test, examenes rapidos y parecido al Kahoot para niños de primaria.
+
+Necesita:
+	formato rapido para hacer los examenes (crear)
+	Posiblidad de trabajar registrado o no
+	Tipos de preguntas
+		respuesta corta
+		respuesta larga
+		Respuesta simple  (sola elección)
+		Respuesta multiple
+		Enunciados con partes vacías y hay que rellenar
+			Con palabras claves
+			Sin palabras claves
+		Ordenar
+	
+	Los exámenes tienen un tiempo
+	Al acabar, se autocorrige
+	Poner imagenes a las preguntas
+	Permite utilizar en más dispositivos
+	Sacar estadisticas
+	

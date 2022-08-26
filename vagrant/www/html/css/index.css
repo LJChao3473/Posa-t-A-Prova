@@ -1,0 +1,195 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* INICI */
+
+header {
+    background-color: #037AFF;
+    overflow: hidden;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 15px;
+}
+
+.fa-angle-left {
+    font-size: 35px;
+    color:white;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+    margin: 0;
+}
+
+#inUsuari , #inContrasenya {
+    width: 285px;
+}
+
+.centerinputs {
+    display: flex;
+    justify-content: center;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none !important;
+}
+
+
+/* CREAR ACTIVITATS */
+
+#temps {
+    width: 135px;
+}
+
+#nomactivitat {
+    width: 350px;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.checks {
+    display: inline-block;
+}
+
+
+/* LLISTA ACTIVITATS */
+
+.searchContainer {
+    margin: auto;
+    border: 2px solid #037AFF;
+    border-radius: 12px;
+    width: 320px;
+}
+
+.searchIcon {
+  padding: 0.7rem;
+  position: absolute;
+}
+
+.searchBox {
+  border: 0;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  outline: none;
+  width: 85%;
+  background-color: transparent!important;
+  margin-left: 40px;
+}
+
+.searchDiv {
+    width: 80%;
+}
+
+.addIcon {
+    color: #037AFF;
+}
+
+.times {
+    background-color: #E32029;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.pencil {
+    background-color: #F6BE45;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.play {
+    background-color: #24B63F;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.paddingtable {
+    padding: 1%;
+}
+
+
+/* PREGUNTES */
+/*NOTA JS DISPLAY PARA ESCONDER*/
+
+#inRespSimple, #inRespLlarga {
+    width: 70%;
+    margin: auto;
+}
+
+.tablaSM {
+    width: 60%;
+}
+
+#psr1 {
+	background-color: #ff6624;
+	color: white;
+	border: 0;
+    height: 30px;
+	width: 120px; 
+    border-radius: 5px;
+}
+
+#psr2 {
+	background-color: #037aff;
+	color: white;
+	margin-left: 10px;
+	border: 0;
+	height: 30px; 
+	width: 120px; 
+    border-radius: 5px;
+}
+
+#psr3 {
+	background-color: #f4eb49;
+	color: white;
+	margin-top: 10px;
+	border: 0;
+	height: 30px; 
+	width: 120px; 
+    border-radius: 5px;
+}
+
+#psr4 {
+	background-color: #72bb53;
+	color: white;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 0;
+	height: 30px; 
+	width: 120px;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: none;
+}
+
+.labelr {
+    padding-left: 10px;
+}
+
+/* PRINCIPAL ALUMNE */
+
+#imatgeusuari1 {
+    width: 120px;
+    display: block;
+    margin: auto;
+}
+
+.codi {
+    display: inline-block;
+}
+
+#inCodi{
+    width: 150px;
+}
+
+#btAcceptarCodi {
+    display: inline-block;
+    margin-left: 5px;
+}

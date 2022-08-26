@@ -1,0 +1,9 @@
+Página perfil de alumno y mod
+página alumno poner lo de los logros y/o estadististicas
+Tipo de preguntas (larga, corta, seleccion (2 respuestas), seleccion (4 respuestas), seleccion multiple)
+Nombre de la pagina/pestaña
+
+pendiente LJ:
+Utilizar php para coger las preguntar y cargarlas en la pagina de preguntas
+acabar js de crear preguntas
+aplicar php para actualizar bbdd con php desde crear preguntas 

@@ -1,0 +1,6 @@
+Como podemos ver, los softwares de creación de encuestas/examenes son muy similares.
+Por ejemplo en Kahoot, está más centrado para que los examenes sean más como un juego donde las personas compiten entre ellos, donde los usuarios deben intentar dar con la respuesta correcta y consegir la puntuación máxima.
+En cambio questionpro, quizizz y encuestafacil donde es posible crear exámenes, pero estas solo son formularios que sirven para sacar estadisticas y/o conseguir feedback de los usuarios.
+
+Lo más cercano a lo que pide el usuario es Kahoot. Este ofrece una pequeña estadistica al final de cada pregunta diciendo las personas que han fallado en una pregunda de manera anonima. Y al final de todo solo muestra una puntuación que no está basado en el número de aciertos que uno tiene, si no en multiples factores.
+Y questionpro, quizizz y encuestafacil tienen algunas carácteristica que ha pedido el cliente. Por ejemplo los tipos de preguntas, ya que kahoot solo tiene 2, sin contar las opciones de pago. Además de que se pueden generar una estadistica basando en la encuesta.

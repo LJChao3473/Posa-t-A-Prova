@@ -1,0 +1,211 @@
+= Planificació
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 08/12/2020 h| Planificació h|
+h| Gestió Hores h|
+|====
+
+== Setmana 1
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 15/12/2020 h| Planificació | Instalación Vagrant
+h| Gestió Hores | Instalación Vagrant: Alex (1h) +
+Configurar máquina (Errores, cambiar teclado, etc): Longjie, Sophia (2h).
+|====
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 22/12/2020 h| Planificació h| 
+h| Gestió Hores h| 
+|====
+
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 29/12/2020 h| Planificació h| 
+h| Gestió Hores h| 
+|====
+
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 05/01/2021 h| Planificació h| 
+h| Gestió Hores h| 
+|====
+
+
+== Setmana 2
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 12/01/2021 h| Planificació | Configuración de Vagrant
+h| Gestió Hores | Resolución de dudas Vagrant y edición de ficheros de configuración: Longjie, Sophia y Alex (3h).
+|====
+
+
+== Setmana 3
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 19/01/2021 h| Planificació | Creación BBDD
+h| Gestió Hores | Creación de la base de datos: Longjie y Sophia (2h) +
+Acabar de configurar Vagrant: Alex (3h).
+|====
+
+
+== Setmana 4
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 26/01/2021 h| Planificació | Creación de páginas con HTML y CSS
+h| Gestió Hores | Creación de la página de preguntas y respuestas (html y css): Longjie Chao (2h) +
+Creación de HTML y CSS de las páginas de profesor, estudiantes y lista de actividades: Sophia (3h30m) +
+Configuración de carpetas compartidas y creación de la base de datos de Vagrant: Álex (30 min) +
+Creación de HTML y CSS de las páginas de login, creación de actividades (2h30m): Álex
+|====
+
+
+== Setmana 5
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 02/02/2021 h| Planificació | Finalización de HTML y CSS. Programación Javascript.
+h| Gestió Hores | HTML / CSS and Vagrant setup for database (1h30m). Inserting data to database (30m): Sophia +
+Prueba de Vagrant, conexión con el host y arreglo de HTML/CSS de preguntas.html (1h): Longjie Chao +
+Configuración de Apache, configuración de carpetas compartidas Vagrant y pruebas de conexión al servidor (1h): Álex +
+Arreglo y finalización de HTML y CSS (3h): Álex
+|====
+
+
+== Setmana 6
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 09/02/2021 h| Planificació | Configuración PHP y MySQL
+h| Gestió Hores | JS: Mostrar y esconder los tipos de preguntas y toda la funcionalidad de los botones, hay funciones que es necesario el base de datos para continuar (2h) y Comienzo JS de página creación de preguntas (1h): Longjie +
+Acabar inserts de test a la base de datos y prueba conexión de PHP al servidor de base de datos (3h): Sophia +
+Configuración de php y de la BDD para posteriormente poder insertar, eliminar y modificar datos: Alex (3h) +
+Creación de página de registro y ficheros php para poder insertar usuarios. Creación de ficheros php para poder hacer login. Finalización de login y registro: Alex (5h) +
+Modificación CSS y adaptación de todas las pantallas a Bootstrap: Alex (3h)
+|====
+
+
+== Setmana 7
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 16/02/2021 h| Planificació | Crear página de perfil para los usuarios +
+Acabar JS página de crearPreguntas
+h| Gestió Hores | Creación de página de gestión de alumnos, programación de eliminar_alumne.php: Alex (2h) +
+Modificación página principal moderador: Alex (1h) + 
+Programación JS para generar más tablas para poner las preguntas: Longjie Chao (3h) +
+All the things that has to do with moderating the professors (add, delete and managing professors) and did some minor tweaking visually: Sophia (2h)
+
+|====
+
+
+== Setmana 8
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 23/02/2021 h| Planificació | Crear página de perfil para los profesores + 
+perfeccionar página crearPregutas
+h| Gestió Hores | Programación JS para elegit tipo de preguntas: Longjie Chao (3h) + 
+Php admin moderation page: Sophia Patrice (3h) +
+crear página registro anónimo: Alex (3h)
+
+|====
+
+
+== Setmana 9
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 02/03/2021 h| Planificació | PHP
+h| Gestió Hores | Php admin moderation page (BUT WORKING!!!!!): Sophia Patrice and Longjie (3h) +
+Edición página registro anónimo: Alex (3h)
+|====
+
+
+== Setmana 10
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 09/03/2021 h| Planificació | (aquí va la planificació setmanal de les tasques)
+h| Gestió Hores | (aquí va la desripció de les tasques realitzades i la seva duració)
+|====
+
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 16/03/2021 h| Planificació ^.^h| RECUPERACIONS
+h| Gestió Hores h|
+|====
+
+
+== Setmana 11
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 23/03/2021 h| Planificació | (aquí va la planificació setmanal de les tasques)
+h| Gestió Hores | (aquí va la desripció de les tasques realitzades i la seva duració)
+|====
+
+
+== Festiu
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 30/03/2021 h| Planificació h| 
+h| Gestió Hores h| 
+|====
+
+
+== Setmana 12
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 06/04/2021 h| Planificació | (aquí va la planificació setmanal de les tasques)
+h| Gestió Hores | (aquí va la desripció de les tasques realitzades i la seva duració)
+|====
+
+
+== Setmana 13
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 13/04/2021 h| Planificació | (aquí va la planificació setmanal de les tasques)
+h| Gestió Hores | (aquí va la desripció de les tasques realitzades i la seva duració)
+|====
+
+
+== Setmana 14
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 20/04/2021 h| Planificació | (aquí va la planificació setmanal de les tasques)
+h| Gestió Hores | (aquí va la desripció de les tasques realitzades i la seva duració)
+|====
+
+
+== Setmana 15
+
+[cols="1,1,4"]
+|====
+.2+^.^h| 27/04/2021 h| Planificació ^.^h| PRESENTACIÓ FINAL PROJECTE
+h| Gestió Hores h| 
+|====
+
+

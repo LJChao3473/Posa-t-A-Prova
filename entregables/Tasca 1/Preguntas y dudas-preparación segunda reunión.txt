@@ -1,0 +1,11 @@
+- La aplicación debe ser como Kahoot (más enfocado a la diversión, competir entre personas/grupos) o como un examen de clase normal (Solo responder).
+
+- Necesitais un ambiente más infantil ya que son niños de primaria o un ambiente más serio. O que se pueda elegir un tema, para que no se quede tan infantil para los que son sexto de primaria.
+
+- Autocorrector para qué tipo de preguntas. Para preguntas tipo respuestas largas, no sirven. Para las respuestas cortas, se debe coincidir siempre con la respuestas o tiene varias respuestas (si distingue mayúsculas y minúsculas)
+
+- Quiénes son vuestro competitores principales? Y que caracteristicas te gustan de tus competidores
+
+- ¿Cuál es el presupuesto para este proyecto?
+
+- Aparte de niños de primaria, se podrán utilizar para otro tipo público

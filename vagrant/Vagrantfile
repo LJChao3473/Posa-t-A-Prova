@@ -1,0 +1,19 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "ubuntu/bionic64"
+  config.vm.synced_folder "www/html", "/var/www/html"
+  config.vm.synced_folder "www/html/css", "/var/www/html/css"
+  config.vm.synced_folder "www/html/js", "/var/www/html/js"
+  config.vm.synced_folder "www/html/img", "/var/www/html/img"
+  config.vm.synced_folder "www/html/includes", "/var/www/html/includes"
+  config.vm.synced_folder "www/html/operacions", "/var/www/html/operacions"
+  config.vm.synced_folder "db", "/db"
+  config.vm.network "private_network", ip: "172.16.0.10"
+  config.vm.network "forwarded_port", guest: 80, host: 80
+  config.vm.provision "shell", path: "script.sh"
+  config.vm.provision "shell", inline: "systemctl restart apache2", run: "always"
+    config.vm.provider "virtualbox" do |vb|
+	vb.name = "Servidor"
+    vb.memory = "512"
+    vb.cpus = 1
+  end
+end
